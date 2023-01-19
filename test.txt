@@ -1,1 +1,2 @@
-This is a test and i guess it works 
+This is a test and i guess it works. 
+This is the seconf test 
